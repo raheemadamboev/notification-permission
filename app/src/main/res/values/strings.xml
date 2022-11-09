@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Notification Permission</string>
+
+    <!-- HelloNotification -->
+    <string name="hello">Hello</string>
+    <string name="hello_raheem">Hello Raheem</string>
+    <string name="hello_name">Hello</string>
+    <string name="hello_description">This channel is used for Hello notification.</string>
 </resources>
