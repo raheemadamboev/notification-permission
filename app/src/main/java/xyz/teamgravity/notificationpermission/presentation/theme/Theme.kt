@@ -1,4 +1,4 @@
-package xyz.teamgravity.notificationpermission.ui.theme
+package xyz.teamgravity.notificationpermission.presentation.theme
 
 import android.app.Activity
 import android.os.Build

@@ -1,4 +1,4 @@
-package xyz.teamgravity.notificationpermission.ui.theme
+package xyz.teamgravity.notificationpermission.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
